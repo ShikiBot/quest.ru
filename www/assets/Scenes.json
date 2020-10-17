@@ -1,0 +1,711 @@
+{
+	"1":
+	{
+		"imagepath": "TV.png",
+		"charpath":	"",
+		"textpath":	"day0/text1.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"2":
+	{
+		"imagepath": "TV.png",
+		"charpath":	"",
+		"textpath":	"day0/text2.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"3":
+	{
+		"imagepath": "TVoff.png",
+		"charpath":	"",
+		"textpath":	"day0/text3.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"4":
+	{
+		"imagepath": "Boxer.png",
+		"charpath":	"",
+		"textpath":	"day0/text4.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"5":
+	{
+		"imagepath": "Corridor.png",
+		"charpath":	"",
+		"textpath":	"day0/text5.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	
+	"6":
+	{
+		"imagepath": "Machine.png",
+		"charpath":	"",
+		"textpath":	"day0/text6.txt",
+		"plus": 0,
+		"buttontext": ["Ударить машину","Пнуть машину","Нажать большую красную кнопку"],
+		"buttonjump": [1,2,3],
+		"buttonprogress": [0,0,0],
+		"buttonanswer": ["В данном документе описанна собранная и обработанная информация об субьекте:<br>","В данном документе описанна собранная и обработанная информация об субьекте:<br>","В данном документе описанна собранная и обработанная информация об субьекте:<br>"]
+	},	
+	"7":
+	{
+		"imagepath": "Machine.png",
+		"charpath":	"",
+		"textpath":	"day0/text7.txt",
+		"plus": 3,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"8":
+	{
+		"imagepath": "Machine.png",
+		"charpath":	"",
+		"textpath":	"day0/text8.txt",
+		"plus": 2,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"9":
+	{
+		"imagepath": "Machine.png",
+		"charpath":	"",
+		"textpath":	"day0/text9.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"10":
+	{
+		"imagepath": "Machine.png",
+		"charpath":	"",
+		"textpath":	"day0/text10.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	
+	"11":
+	{
+		"imagepath": "CorridorC.png",
+		"charpath":	"",
+		"textpath":	"day1/text11.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"12":
+	{
+		"imagepath": "CorridorC.png",
+		"charpath":	"kid.png",
+		"textpath":	"day1/text12.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"13":
+	{
+		"imagepath": "CorridorC.png",
+		"charpath":	"mom.png",
+		"textpath":	"day1/text13.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"14":
+	{
+		"imagepath": "RoomC.png",
+		"charpath":	"kid.png",
+		"textpath":	"day1/text14.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"15":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"kid.png",
+		"textpath":	"day1/text15.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"16":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day1/text16.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"17":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"kid.png",
+		"textpath":	"day1/text17.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"18":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"kid.png",
+		"textpath":	"day1/text18.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"19":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"kid.png",
+		"textpath":	"day1/text19.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	
+	"20":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day1/text20.txt",
+		"plus": 0,
+		"buttontext": ["Открыть сообщение","Удалить сообщение"],
+		"buttonjump": [1,2],
+		"buttonprogress": [0,2],
+		"buttonanswer": ["Eго лекго обмануть используя обещания материальных благ. Необходимо провести больше проверок, возможно вне интернет среды. Была попытка получения пароля с помощью фишинга: ", "Не смог быть обманут обещанием материальных благ. Необходимо провести больше проверок, возможно вне интернет среды. Была попытка получения пароля с помощью фишинга: "]
+	},
+	"21":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"kid.png",
+		"textpath":	"day1/text21.txt",
+		"plus": 2,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"22":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day1/text22.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"23":
+	{
+		"imagepath": "RoomC.png",
+		"charpath":	"",
+		"textpath":	"day1/text23.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	
+	"24":
+	{
+		"imagepath": "RoomC.png",
+		"charpath":	"",
+		"textpath":	"day2/text24.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"25":
+	{
+		"imagepath": "CorridorC.png",
+		"charpath":	"agent.png",
+		"textpath":	"day2/text25.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	
+	"26":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text26.txt",
+		"plus": 0,
+		"buttontext": ["3Y7W1*","USSR4LIFE","12345","5YSW1*","Погодите-ка"],
+		"buttonjump": [1,2,2,2,3],
+		"buttonprogress": [0,1,1,1,2],
+		"buttonanswer": ["получилось узнать пароль. Используя социальную инженерию удалось потвердить адрес почты", "полученный пароль оказался неверным. Используя социальную инженерию удалось потвердить адрес почты", "полученный пароль оказался неверным. Используя социальную инженерию удалось потвердить адрес почты", "полученный пароль оказался неверным. Используя социальную инженерию удалось потвердить адрес почты", "не удалось получить пароль. Используя социальную инженерию удалось потвердить адрес почты"]
+	},
+	"27":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text27.txt",
+		"plus": 3,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"28":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text28.txt",
+		"plus": 2,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"29":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text29.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"30":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text30.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"31":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text31.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"32":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text32.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"33":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"mom.png",
+		"textpath":	"day2/text33.txt",
+		"plus": 0,
+		"buttontext": ["Продолжить разговор","Завершить разговор"],
+		"buttonjump": [1,3],
+		"buttonprogress": [0,2],
+		"buttonanswer": [" и данные паспорта, провести дополнительную проверку в старых документах. С помощью нацеленой атаки ", ". С помощью нацеленой атаки "]
+	},
+	"34":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"mom.png",
+		"textpath":	"day2/text34.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"35":
+	{
+		"imagepath": "HLair.png",
+		"charpath":	"",
+		"textpath":	"day2/text35.txt",
+		"plus": 2,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"36":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"mom.png",
+		"textpath":	"day2/text36.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"37":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text37.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"38":
+	{
+		"imagepath": "TVoff.png",
+		"charpath":	"",
+		"textpath":	"day2/text38.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"39":
+	{
+		"imagepath": "TVoff.png",
+		"charpath":	"",
+		"textpath":	"day2/text39.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"40":
+	{
+		"imagepath": "TVoff.png",
+		"charpath":	"",
+		"textpath":	"day2/text40.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"41":
+	{
+		"imagepath": "TVoff.png",
+		"charpath":	"",
+		"textpath":	"day2/text41.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"42":
+	{
+		"imagepath": "TVoff.png",
+		"charpath":	"mom.png",
+		"textpath":	"day2/text42.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"43":
+	{
+		"imagepath": "TVoff.png",
+		"charpath":	"mom.png",
+		"textpath":	"day2/text43.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"44":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text44.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"45":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text45.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"46":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text46.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"47":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"kid.png",
+		"textpath":	"day2/text47.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"48":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"kid.png",
+		"textpath":	"day2/text48.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"49":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text49.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"50":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"day2/text50.txt",
+		"plus": 0,
+		"buttontext": ["Можно и отвлечься","Продолжить поиски"],
+		"buttonjump": [1,8],
+		"buttonprogress": [0,2],
+		"buttonanswer": ["удалось получить удаленный доступ к компьютеру, будет проводиться дальнейшее сканирование, была произведена попытка захвата цели, задержание не удалось.<br>Продолжить поиск информации.", "не получилось осуществить атаку, была произведена попытка захвата цели, задержание не удалось.<br>Продолжить поиск информации."]
+	},
+	"51":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"ending/text51.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"52":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"ending/text52.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"53":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"ending/text53.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"54":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"ending/text54.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"55":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"ending/text55.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"56":
+	{
+		"imagepath": "CorridorC.png",
+		"charpath":	"agent.png",
+		"textpath":	"ending/text56.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"57":
+	{
+		"imagepath": "RoomC.png",
+		"charpath":	"",
+		"textpath":	"ending/text57.txt",
+		"plus": 6,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"58":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"ending/text58.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"59":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"ending/text59.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"60":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"ending/text60.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"61":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"ending/text61.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"62":
+	{
+		"imagepath": "PCC.png",
+		"charpath":	"",
+		"textpath":	"ending/text62.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"63":
+	{
+		"imagepath": "RoomC.png",
+		"charpath":	"",
+		"textpath":	"ending/text63.txt",
+		"plus": 1,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	},
+	"64":
+	{
+		"imagepath": "RoomC.png",
+		"charpath":	"",
+		"textpath":	"ending/text64.txt",
+		"plus": 0,
+		"buttontext": [],
+		"buttonjump": [],
+		"buttonprogress": [],
+		"buttonanswer": []
+	}
+}

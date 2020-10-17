@@ -1,0 +1,63 @@
+body
+{
+	background: url(../images/Background/Result.png) no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+body:focus {
+    outline: none;
+}
+
+img
+{
+	object-fit: cover;
+}
+
+.tablet
+{
+	width: 50%;
+	height: auto;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.text
+{
+	border:3px solid #FFFFFF;
+	color:#000000;
+	font-size:18px;
+	width:50%;
+	display:block;
+	margin-bottom:0px;
+	font-family: 'Pacifico', cursive;
+	margin-top: -67%;
+	margin-left: 13%;
+	padding:0px
+}
+
+button
+{	
+	color: white;
+	background: rgba(0,0,0,.65);
+	font-weight: 700;
+	text-decoration: none;
+	user-select: none;
+	padding: .5em 2em;
+	outline: none;
+	border: 2px solid;
+	border-radius: 1px;
+	transition: 0.2s;
+	margin-bottom: 5px;
+	width:5%;
+} 
+
+button:hover
+{ 
+	background: rgba(255,255,255,.2);
+}
+
+button:active
+{
+	background: rgba(255,255,255,.5);
+}
